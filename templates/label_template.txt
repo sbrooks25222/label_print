@@ -1,0 +1,6 @@
+API Number: {API}
+Well Name: {Well}
+Batch Number: {Batch}
+Operator: {Operator}
+
+--- LABEL GENERATED ---
